@@ -5,12 +5,9 @@ Hi, I’m Berkay! 👋
 
 🔹 About Me
 
-Passionate about problem-solving, software development, and data analytics
-
-Learning C# and Unity as part of my university's game development team
-
-Currently exploring R for data analysis
-
+I am passionate about problem-solving, software development, and data analytics.
+Currently learning C# and Unity as part of my university's game development team,
+also exploring R for data analysis.
 
 🔹 Skills
 
