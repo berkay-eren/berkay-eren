@@ -15,7 +15,7 @@ Programming: Java, C, SQL, JavaScript
 
 Data & Analytics: R, PL/SQL
 
-Web Development: HTML, CSS
+Web Development: HTML, CSS, PHP
 
 🔹 Interests
 
