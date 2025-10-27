@@ -1,16 +1,27 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center"> 👋 Hey, I'm Berkay </h1>
+<p align="center">
+  Exchange Student at SETU | Junior at Bilkent
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/berkayeren/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
+  <a href="mailto:berkaeren@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red">
+  </a>
+</p>
 
-<!--
-**berkay-eren/berkay-eren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Experienced in multiple programming languages, with project work in web applications, game development, and management systems. Interested in software development, sports analytics and IT laws. I enjoy learning and collaborating in international environments.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack  
+
+**Programming:**  
+`Python` · `Java` · `JavaScript` · `PHP` · `C` · `SQL`  
+
+**Frameworks & Libraries:**  
+`React` · `Next.js` · `Node.js` · `Django` · `Pandas` · `NumPy`  
+
+**Tools & Technologies:**  
+`AWS` · `Docker` · `Git` · `Linux` · `MySQL` · `Oracle DB` · `Cisco Packet Tracer`  
+
