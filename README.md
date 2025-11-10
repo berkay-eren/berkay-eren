@@ -20,7 +20,7 @@ Experienced in multiple programming languages, with project work in web applicat
 `Python` · `Java` · `JavaScript` · `PHP` · `C` · `SQL`  
 
 **Frameworks & Libraries:**  
-`React` · `Next.js` · `Django` · `Pandas` · `NumPy`  
+`React` · `Next.js` · `Pandas` · `NumPy`  
 
 **Tools & Technologies:**  
 `AWS` · `Docker` · `Git` · `Linux` · `MySQL` · `Oracle DB` · `Cisco Packet Tracer`  
