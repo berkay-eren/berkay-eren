@@ -11,7 +11,7 @@
 </p>
 
 ## About Me
-Experienced in multiple programming languages, with project work in web applications, game development, and management systems. Interested in software development, sports analytics and IT laws. I enjoy learning and collaborating in international environments.
+Experienced in multiple programming languages, with project work in web applications, game development, and management systems. Interested in software development, sports data science and IT laws. I enjoy learning and collaborating in international environments.
 
 
 ## Tech Stack  
