@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center"> 👋 Hey, I'm Berkay </h1>
 <p align="center">
-  Exchange Student at SETU | Junior at Bilkent
+  Backend Intern at Jotform | Junior at Bilkent
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/berkayeren/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
