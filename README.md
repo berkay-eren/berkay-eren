@@ -17,10 +17,7 @@ Experienced in multiple programming languages, with project work in web applicat
 ## Tech Stack  
 
 **Programming:**  
-`Python` · `Java` · `JavaScript` · `PHP` · `C` · `SQL`  
-
-**Frameworks & Libraries:**  
-`React` · `Next.js` · `Pandas` · `NumPy`  
+`PHP` . `Python` · `Java` · `JavaScript` · `C` · `SQL`  
 
 **Tools & Technologies:**  
 `AWS` · `Docker` · `Git` · `Linux` · `MySQL` · `Oracle DB` · `Cisco Packet Tracer`  
